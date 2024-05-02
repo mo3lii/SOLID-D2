@@ -1,0 +1,6 @@
+﻿
+
+Notes : 
+Interfaces for Inversion not handled
+	- help for O/CP
+	- help for mocking in testing
